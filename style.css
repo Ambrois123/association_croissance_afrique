@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Lato:wght@300&family=Montserrat:wght@200&family=Poppins:wght@300;600&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.carousel-item{
+    height: 30rem;
+    background-position: center;
+    background-size: cover;
+}
+.carousel-caption{
+  padding-top: 1rem;
+  padding-bottom: 12rem;
+}
+
+nav{
+    font-weight: 900;
+}
